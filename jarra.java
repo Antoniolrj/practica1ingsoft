@@ -14,6 +14,13 @@ public class jarra {
 		//  metodos
 		             // 1
 		             // 2
+			public void llena(){
+				this.cantidad=this.capacidad;
+			}
+		public void vacia(){
+				this.cantidad=0;
+			}
+
 		             // 3
 
 		        public void metodoComunitario(){ 
