@@ -19,6 +19,7 @@ public class jarra {
 			}
 		public void vacia(){
 				this.cantidad=0;
+				// esta es la parte de javier vazquez, trabajo finalizado. 
 			}
 
 		             // 3
@@ -27,4 +28,4 @@ public class jarra {
 		// Comentario incluido para pruebas 
 		           System.out.println("Aqui escribimos todos");
 		         }
- }
+ }  
